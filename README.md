@@ -206,13 +206,19 @@ These visualizations help identify overfitting (training accuracy ~99.67% vs val
 
 ---
 
+## 👨🏻‍💻 Author
+
+SHASHI TIWARI
+
+---
+
 ## 📜 License
 
 This project is licensed under the **MIT License** — free to use, modify, and distribute.
 
 ---
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 - **Dataset:** [CelebA Dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) by MMLab, CUHK
 - **Model:** [InceptionV3](https://keras.io/api/applications/inceptionv3/) — "Rethinking the Inception Architecture for Computer Vision" (Szegedy et al., 2015)
